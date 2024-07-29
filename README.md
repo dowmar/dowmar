@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dowmar</h1>
-<h3 align="center">I'm currently in my senior year in college</h3>
+<h3 align="center">I'm currently UNEMPLOYED KEKW</h3>
 
 <p align="left"> <img src="[https://github-profile-trophy.vercel.app/?username=dowmar](https://cdn.theatlantic.com/media/mt/jamesfallows/assets_c/2011/08/bobby-fischer-thumb-250x375-59789.jpg)" alt="dowmar" /></p>
 
-- 🔭 I’m currently working on [Kudara](https://kudara.cyclic.app/)
+- 🔭 I’m currently working on [none]
 
-- 🌱 I’m currently learning **react, nextjs**
+- 🌱 I’m currently learning **react, nextjs** (womp womp on FE)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dowmar](https://github.com/dowmar)
 
