@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dowmar</h1>
-<h3 align="center">I'm currently Self-employed/h3>
+<h3 align="center">I'm currently Self-employed/<h3>
 
 <p align="left"> <img src="[https://github-profile-trophy.vercel.app/?username=dowmar](https://cdn.theatlantic.com/media/mt/jamesfallows/assets_c/2011/08/bobby-fischer-thumb-250x375-59789.jpg)" alt="dowmar" /></p>
 
