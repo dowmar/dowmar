@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dowmar</h1>
-<h3 align="center">I'm currently UNEMPLOYED KEKW</h3>
+<h3 align="center">I'm currently Self-employed/h3>
 
 <p align="left"> <img src="[https://github-profile-trophy.vercel.app/?username=dowmar](https://cdn.theatlantic.com/media/mt/jamesfallows/assets_c/2011/08/bobby-fischer-thumb-250x375-59789.jpg)" alt="dowmar" /></p>
 
-- 🔭 I’m currently working on [none]
+- 🔭 I’m currently working on **middleupInterior**
 
-- 🌱 I’m currently learning **react, nextjs** (womp womp on FE)
+- 🌱 I’m currently learning **nextjs, rust** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/dowmar](https://github.com/dowmar)
 
-- 💬 Ask me about **react, node, go, flutter**
+- 💬 Ask me about **react, node, go, .NET, flutter**
 
 - 📫 How to reach me **domararya9029@gmail.com**
 
