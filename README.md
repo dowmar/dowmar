@@ -80,7 +80,7 @@ class AryasatyaBhagaskara:
 ### 🏢 **Kalachakra** | Software Engineer
 *May 2023 - April 2024 | Bekasi, Indonesia*
 
-- 🔐 Designed **face recognition & liveness detection** systems for **PT. Bank Mandiri Taspen**
+- 🔐 Designed **face recognition & liveness detection** systems for **Banking Sector**
 - 💰 Built **Merpati CRM** app - **5 Billion IDR** monthly revenue, **500+ concurrent agents**
 - 📺 Launched internal prize polling app for **MNC Bank** (aired live on national TV)
 - 💬 Engineered **WhatsApp chat engine** (B2C) using Waha, Baileys, Wwebjs
