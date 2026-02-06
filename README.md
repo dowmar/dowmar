@@ -1,21 +1,27 @@
 <div align="center">
   
-  <!-- Animated Header with Particles -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,25,27,28&text=Hello%20World!%20%F0%9F%8C%8D&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=20&descAlignY=65" />
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,25,27,28&text=Aryasatya%20Bhagaskara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descSize=18&descAlignY=60" />
 
   <br>
 
-  <!-- Animated Name with Typing Effect -->
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=I'm+Dowmar+%F0%9F%9A%80;Full+Stack+Developer+%7C+Tech+Enthusiast;Building+Things+That+Matter+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=F472B6&center=true&vCenter=true&multiline=true&width=650&height=100&lines=AWS+%7C+Kubernetes+%7C+LLM+%7C+RAG;Face+Recognition+%7C+API+Integration;Building+Impactful+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- Profile Views Counter with Animation -->
-  <img src="https://komarev.com/ghpvc/?username=dowmar&label=Profile%20Views&color=ff69b4&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <!-- Profile Views & Contact -->
+  <img src="https://komarev.com/ghpvc/?username=dowmar&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/dowmar?label=Followers&style=for-the-badge&color=blueviolet&logo=github" alt="Followers" />
+  <a href="mailto:domararya9029@gmail.com">
+    <img src="https://img.shields.io/badge/Email-domararya9029%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aryasatya-bhagaskara-0001">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 </div>
 
@@ -23,40 +29,43 @@
 
 ---
 
-<!-- About Me with Cool Layout -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="65%">
 
-```javascript
-👨‍💻 const dowmar = {
-    📑 name: "Aryasatya Bhagaskara",
-    🎯 role: "Full Stack Developer",
-    📍 location: "Indonesia 🇮🇩",
+```python
+class AryasatyaBhagaskara:
+    def __init__(self):
+        self.name = "Aryasatya Bhagaskara"
+        self.role = "Software Engineer"
+        self.location = "Pancoran Mas, West Java, Indonesia 🇮🇩"
+        self.contact = "+6281219487204"
+        self.email = "domararya9029@gmail.com"
+        
+    def expertise(self):
+        return [
+            "AWS Cloud Infrastructure",
+            "Kubernetes & Containerization", 
+            "Face Recognition & Liveness Detection",
+            "LLM, RAG, & AI Integration",
+            "API Integration & Optimization"
+        ]
     
-    ⚙️  currentFocus: {
-        work: "middleupInterior",
-        learning: ["Next.js", "Rust", "System Design"],
-        building: "Scalable Web Apps"
-    },
-    
-    🔧 techStack: ["React", "Node", "Go", 
-                  ".NET", "Flutter"],
-    
-    ☕  fuel: "Coffee + Music",
-    
-    🎵 currentlyVibing: "Lo-fi Coding Beats",
-    
-    💡 funFact: () => {
-        return "I debug with console.log 😅";
-    }
-};
+    def current_focus(self):
+        return "Building revenue-generating apps with AI & Cloud"
+        
+    def languages(self):
+        return {
+            "Indonesian": "Native",
+            "English": "C1 (Advanced)",
+            "Japanese": "A2 (Elementary)"
+        }
 ```
 
     </td>
-    <td width="40%">
+    <td width="35%">
       <img src="https://raw.githubusercontent.com/gist/patevs/b187a0f98f1d7c59e3076a029f960682/raw/7ecd1f0a72a17c8f3fde66f7bb1edd1f17e0da9e/coding.gif" width="100%">
     </td>
   </tr>
@@ -66,7 +75,134 @@
 
 ---
 
-<!-- GitHub Trophies -->
+## 💼 Professional Experience
+
+### 🏢 **Kalachakra** | Software Engineer
+*May 2023 - April 2024 | Bekasi, Indonesia*
+
+- 🔐 Designed **face recognition & liveness detection** systems for **PT. Bank Mandiri Taspen**
+- 💰 Built **Merpati CRM** app - **5 Billion IDR** monthly revenue, **500+ concurrent agents**
+- 📺 Launched internal prize polling app for **MNC Bank** (aired live on national TV)
+- 💬 Engineered **WhatsApp chat engine** (B2C) using Waha, Baileys, Wwebjs
+- ☸️ Deployed with **Docker Swarm** & **Kubernetes** across multiple clusters
+- 🔄 Integrated APIs via RESTful services & message queues (**Kafka**, **RabbitMQ**)
+- 🤖 Explored **RAG**, **SLMs**, **LLMs** - launched mini RAG app for document conversations (collaborating with **Datasaur**)
+
+---
+
+### 🏢 **PT Astra International Tbk** | Full Stack Developer
+*February 2023 - March 2023*
+
+- 📱 Developed WhatsApp API & Facebook Business broadcast system for **40+ Astra subsidiaries**
+- 🛒 Re-developed **e-commerce app** with Privy API integration & vendor approval system
+- 🔄 Synchronized data between **belibareng** and **eproc** platforms
+- 🔑 Improved **Single Sign-On (SSO)** using **Microsoft Azure AD** & **AD B2C**
+- ☁️ Enhanced AWS infrastructure: **EC2**, **Lambda**, **RDS**
+- ☸️ Implemented **Kubernetes** monitoring & **Docker** automation with cronjobs
+
+---
+
+### 🏢 **PT Mitra Teknologi Gemilang** | Freelance Web Developer
+*September 2021 - September 2022*
+
+---
+
+### 🎓 **Universitas Gunadarma** | Computer Lab Assistant
+*February 2022 - July 2022*
+
+- 👨‍🏫 Taught: Java, PHP, C, C++, Ruby, MySQL
+- 🎨 Taught UI/UX design with **Figma**
+- 🏗️ Taught **CodeIgniter** Framework
+
+---
+
+### 🏢 **ZebraX** | Software Engineer Internship
+
+- 🔧 Backend Services with **Golang** & **PostgreSQL**
+- 📊 GraphQL & **MongoDB**
+- 📝 UAT with clients
+- 🔄 Agile Development & RAD
+- ✍️ Published tech articles on **Medium**
+
+<br>
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,nodejs,java,cs&theme=dark" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+</p>
+
+### Message Queues & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+</p>
+
+### AI & LLM
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=semantic-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-FFD93D?style=for-the-badge&logo=artificial-intelligence&logoColor=black" />
+  <img src="https://img.shields.io/badge/MCP-4ECDC4?style=for-the-badge&logo=protocols&logoColor=white" />
+</p>
+
+### Frontend & Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,flutter,dart&theme=dark" />
+</p>
+
+### Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/Azure%20AD-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+<br>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=dowmar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowmar&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dowmar&theme=radical&hide_border=true&background=0D1117&stroke=F472B6&ring=F472B6&fire=FF69B4&currStreakLabel=F472B6" alt="GitHub Streak" width="80%" />
+
+</div>
+
+<br>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -79,79 +215,43 @@
 
 ---
 
-<!-- Tech Stack with Animated Icons -->
-## ⚡ Tech Stack
+## 🎓 Education & Certifications
 
-### 🕸️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,flutter,dart,html,css,sass&theme=dark&perline=9" />
-</p>
+### Education
+- **🎓 Bachelor of Technology (BTech) in Information Technology**
+  - Universitas Gunadarma | *February 2023*
 
-### ⚙️ Backend
+### Certifications
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,express,cs,dotnet,python,php,java&theme=dark&perline=8" />
-</p>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS%20Cloud%20Essentials-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google%20Go%20(Golang)-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Back%20End%20Development%20%26%20APIs-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Jabar%20Coding%20Camp%202021-1E88E5?style=for-the-badge&logo=sanbercode&logoColor=white" />
+  </a>
 
-### 🗄️ Database & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,supabase,redis,docker,kubernetes,aws,gcp&theme=dark&perline=10" />
-</p>
-
-### 🛠️ Tools & Others
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,linux,bash,arduino&theme=dark&perline=10" />
 </p>
 
 <br>
 
 ---
 
-<!-- GitHub Stats with Animations -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=dowmar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&ring_color=F472B6" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowmar&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dowmar&theme=radical&hide_border=true&background=0D1117&stroke=F472B6&ring=F472B6&fire=FF69B4&currStreakLabel=F472B6&sideLabels=F472B6" alt="GitHub Streak" width="80%" />
-
-</div>
-
-<br>
-
----
-
-<!-- Contribution Graph -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-  [![Dowmar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dowmar&custom_title=Dowmar's%20Contribution%20Graph&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF&area_color=F472B6&area=true&hide_border=true)](https://github.com/dowmar)
-
-</div>
-
-<br>
-
----
-
-<!-- Featured Projects with Cool Cards -->
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
   <a href="https://github.com/dowmar/valentine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dowmar&repo=valentine&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dowmar&repo=valentine&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" />
   </a>
 
 </div>
@@ -160,12 +260,14 @@
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Watch My Contributions Get Eaten by a Snake!
+## 💬 Let's Connect!
 
 <div align="center">
 
-  ![snake gif](https://github.com/dowmar/dowmar/blob/output/github-contribution-grid-snake.svg)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryasatya--bhagaskara--0001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryasatya-bhagaskara-0001)
+  [![GitHub](https://img.shields.io/badge/GitHub-dowmar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dowmar)
+  [![Email](https://img.shields.io/badge/Email-domararya9029%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domararya9029@gmail.com)
+  [![Phone](https://img.shields.io/badge/WhatsApp-%2B6281219487204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281219487204)
 
 </div>
 
@@ -173,24 +275,7 @@
 
 ---
 
-<!-- Spotify Now Playing -->
-## 🎵 Now Playing
-
-<div align="center">
-
-  [![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-  <!-- Alternative if no Spotify -->
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k2k7rez5rn3shx3mbz7aqnk6za&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" />
-
-</div>
-
-<br>
-
----
-
-<!-- Random Quote -->
-## 📖 Dev Quote of the Day
+## 📖 Dev Quote
 
 <div align="center">
 
@@ -202,66 +287,12 @@
 
 ---
 
-<!-- Joke Section -->
-## 😂 Random Dev Joke
-
 <div align="center">
 
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true)
-
-</div>
-
-<br>
-
----
-
-<!-- Connect Section -->
-## 🔗 Let's Connect!
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/aryasatya-bhagaskara-0001)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/dowmar)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:domararya9029@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](https://github.com/dowmar)
-
-</div>
-
-<br>
-
----
-
-<!-- Visitor Map -->
-## 🗺️ Visitor Map
-
-<div align="center">
-
-  ![Visitor Map](https://profile-counter.glitch.me/dowmar/count.svg)
-
-</div>
-
-<br>
-
----
-
-<!-- Footer with Wave -->
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27,28&height=150&section=footer&text=Thanks%20for%20visiting!%20%E2%9C%A8&fontSize=30&fontColor=fff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27,28&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff" />
 
   <br>
 
-  ### Show some ❤️ by starring my repositories!
+  ### 💖 Show some love by starring my repositories!
 
-  <br>
-
-  [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-  
 </div>
-
-<!-- Easter Egg -->
-<!--
-👇👇👇 Fun fact: You've scrolled all the way down! 
-You must be really interested in my profile 😎
-Here's a virtual cookie for you: 🍪
--->
