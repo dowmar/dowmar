@@ -29,7 +29,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 👤 About Me
 
 <table>
   <tr>
@@ -66,7 +66,7 @@ class AryasatyaBhagaskara:
 
     </td>
     <td width="35%">
-      <img src="https://raw.githubusercontent.com/gist/patevs/b187a0f98f1d7c59e3076a029f960682/raw/7ecd1f0a72a17c8f3fde66f7bb1edd1f17e0da9e/coding.gif" width="100%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e50300ad1ac4.gif" width="100%">
     </td>
   </tr>
 </table>
@@ -77,38 +77,35 @@ class AryasatyaBhagaskara:
 
 ## 💼 Professional Experience
 
-### 🏢 **Kalachakra** | Software Engineer
-*May 2023 - April 2024 | Bekasi, Indonesia*
+### 💼 **Software Engineer** | *May 2023 - April 2024*
+*Full-time | Bekasi, Indonesia*
 
 - 🔐 Designed **face recognition & liveness detection** systems for **Banking Sector**
-- 💰 Built **Merpati CRM** app - **5 Billion IDR** monthly revenue, **500+ concurrent agents**
-- 📺 Launched internal prize polling app for **MNC Bank** (aired live on national TV)
+- 💰 Built **CRM** app - **5 Billion IDR** monthly revenue, **500+ concurrent agents**
+- 📺 Launched internal prize polling app **aired live on national TV**
 - 💬 Engineered **WhatsApp chat engine** (B2C) using Waha, Baileys, Wwebjs
 - ☸️ Deployed with **Docker Swarm** & **Kubernetes** across multiple clusters
 - 🔄 Integrated APIs via RESTful services & message queues (**Kafka**, **RabbitMQ**)
-- 🤖 Explored **RAG**, **SLMs**, **LLMs** - launched mini RAG app for document conversations (collaborating with **Datasaur**)
+- 🤖 Explored **RAG**, **SLMs**, **LLMs** - launched mini RAG app for document conversations
 
 ---
 
-### 🏢 **PT Astra International Tbk** | Full Stack Developer
-*February 2023 - March 2023*
+### 💼 **Full Stack Developer** | *February 2023 - March 2023*
 
-- 📱 Developed WhatsApp API & Facebook Business broadcast system for **40+ Astra subsidiaries**
+- 📱 Developed WhatsApp API & Facebook Business broadcast system for **40+ subsidiaries**
 - 🛒 Re-developed **e-commerce app** with Privy API integration & vendor approval system
-- 🔄 Synchronized data between **belibareng** and **eproc** platforms
+- 🔄 Synchronized data between **multiple e-commerce platforms**
 - 🔑 Improved **Single Sign-On (SSO)** using **Microsoft Azure AD** & **AD B2C**
 - ☁️ Enhanced AWS infrastructure: **EC2**, **Lambda**, **RDS**
 - ☸️ Implemented **Kubernetes** monitoring & **Docker** automation with cronjobs
 
 ---
 
-### 🏢 **PT Mitra Teknologi Gemilang** | Freelance Web Developer
-*September 2021 - September 2022*
+### 💼 **Freelance Web Developer** | *September 2021 - September 2022*
 
 ---
 
-### 🎓 **Universitas Gunadarma** | Computer Lab Assistant
-*February 2022 - July 2022*
+### 🎓 **Computer Lab Assistant** | *February 2022 - July 2022*
 
 - 👨‍🏫 Taught: Java, PHP, C, C++, Ruby, MySQL
 - 🎨 Taught UI/UX design with **Figma**
@@ -116,7 +113,7 @@ class AryasatyaBhagaskara:
 
 ---
 
-### 🏢 **ZebraX** | Software Engineer Internship
+### 💼 **Software Engineer Internship**
 
 - 🔧 Backend Services with **Golang** & **PostgreSQL**
 - 📊 GraphQL & **MongoDB**
@@ -203,26 +200,13 @@ class AryasatyaBhagaskara:
 
 ---
 
-## 📈 Profile Views Chart
+## 📈 Profile Views
 
 <div align="center">
 
-  <!-- Total Page Views Counter -->
   <h3>📺️ Total Profile Views</h3>
   
-  <a href="https://github.com/dowmar">
-    <img src="https://komarev.com/ghpvc/?username=dowmar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye&logoColor=white" alt="Total Profile Views" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Animated Views Counter -->
-  <img src="https://profile-counter.glitch.me/dowmar/count.svg" alt="Visitor Count" />
-  
-  <br><br>
-  
-  <!-- Views Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dowmar&custom_title=Dowmar's%20Profile%20Traffic&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF&area_color=F472B6&area=true&hide_border=true&height=300" alt="Profile Views Graph" width="90%" />
+  <img src="https://komarev.com/ghpvc/?username=dowmar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye&logoColor=white" alt="Total Profile Views" />
 
 </div>
 
@@ -287,7 +271,7 @@ class AryasatyaBhagaskara:
 
 ---
 
-## 💬 Let's Connect!
+## 🔗 Let's Connect!
 
 <div align="center">
 
@@ -302,24 +286,12 @@ class AryasatyaBhagaskara:
 
 ---
 
-## 📖 Dev Quote
-
-<div align="center">
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false)
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27,28&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff" />
 
   <br>
 
-  ### 💖 Show some love by starring my repositories!
+  ### ❤️ Show some love by starring my repositories!
 
 </div>
