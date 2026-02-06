@@ -1,22 +1,143 @@
-<h1 align="center">Hi 👋, I'm Dowmar</h1>
-<h3 align="center">I'm currently Self-employed/<h3>
+<div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27,28&height=200&section=header&text=Hey%20There!%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-- 🔭 I’m currently working on **middleupInterior**
+  <!-- Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=I'm+Dowmar+%F0%9F%9A%80;Full+Stack+Developer;Mobile+%7C+Web+%7C+Cloud;Always+Learning+New+Things!" alt="Typing SVG" />
+  </a>
 
-- 🌱 I’m currently learning **nextjs, rust** 
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dowmar](https://github.com/dowmar)
+<br>
 
-- 💬 Ask me about **react, node, go, .NET, flutter**
+<!-- About Me Section -->
+## 👤 About Me
 
-- 📫 How to reach me **domararya9029@gmail.com**
+```javascript
+const dowmar = {
+    name: "Aryasatya Bhagaskara",
+    role: "Full Stack Developer",
+    location: "Indonesia 🇮🇩",
+    currentWork: "middleupInterior",
+    learning: ["Next.js", "Rust", "System Design"],
+    askMeAbout: ["React", "Node.js", "Go", ".NET", "Flutter"],
+    funFact: "I turn coffee into code ☕→💻"
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aryasatya-bhagaskara-0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryasatya-bhagaskara-0001" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- Current Focus -->
+## 🚀 What I'm Up To
 
+- 🔭 **Currently Working On:** [middleupInterior](https://github.com/dowmar) - Interior design platform
+- 🌱 **Learning:** Next.js, Rust, and System Architecture
+- 💬 **Ask Me About:** React, Node.js, Go, .NET, Flutter
+- 🎯 **Goal:** Building scalable applications that make an impact
 
+<br>
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+<br>
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=dowmar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" alt="GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowmar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6" alt="Top Languages" height="180" />
+
+</div>
+
+<div align="center">
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dowmar&theme=radical&hide_border=true&background=0D1117&stroke=F472B6&ring=F472B6&fire=F472B6&currStreakLabel=F472B6" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<!-- Featured Projects -->
+## 🌟 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/dowmar/valentine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dowmar&repo=valentine&theme=radical&hide_border=true&bg_color=0D1117&title_color=F472B6&icon_color=F472B6" />
+  </a>
+
+</div>
+
+<br>
+
+<!-- Connect -->
+## 🔗 Let's Connect!
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryasatya-bhagaskara-0001)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dowmar)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domararya9029@gmail.com)
+
+</div>
+
+<br>
+
+<!-- Random Dev Quote -->
+<div align="center">
+  
+  ### ✨ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<br>
+
+<!-- Profile Views & Footer -->
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=dowmar&label=Profile%20Views&color=F472B6&style=for-the-badge" alt="Profile Views" />
+  
+  <br><br>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27,28&height=100&section=footer" />
+
+</div>
+
+---
+
+<div align="center">
+  <b>Thanks for visiting! 🚀</b><br>
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> – Cory House
+</div>
