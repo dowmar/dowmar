@@ -203,6 +203,33 @@ class AryasatyaBhagaskara:
 
 ---
 
+## 📈 Profile Views Chart
+
+<div align="center">
+
+  <!-- Total Page Views Counter -->
+  <h3>📺️ Total Profile Views</h3>
+  
+  <a href="https://github.com/dowmar">
+    <img src="https://komarev.com/ghpvc/?username=dowmar&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge&logo=eye&logoColor=white" alt="Total Profile Views" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Animated Views Counter -->
+  <img src="https://profile-counter.glitch.me/dowmar/count.svg" alt="Visitor Count" />
+  
+  <br><br>
+  
+  <!-- Views Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dowmar&custom_title=Dowmar's%20Profile%20Traffic&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF&area_color=F472B6&area=true&hide_border=true&height=300" alt="Profile Views Graph" width="90%" />
+
+</div>
+
+<br>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
