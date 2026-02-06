@@ -15,10 +15,6 @@
   <!-- Profile Views & Contact -->
   <img src="https://komarev.com/ghpvc/?username=dowmar&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
   &nbsp;
-  <a href="mailto:domararya9029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-domararya9029%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/aryasatya-bhagaskara-0001">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -41,8 +37,6 @@ class AryasatyaBhagaskara:
         self.name = "Aryasatya Bhagaskara"
         self.role = "Software Engineer"
         self.location = "Pancoran Mas, West Java, Indonesia 🇮🇩"
-        self.contact = "+6281219487204"
-        self.email = "domararya9029@gmail.com"
         
     def expertise(self):
         return [
@@ -277,8 +271,6 @@ class AryasatyaBhagaskara:
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryasatya--bhagaskara--0001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryasatya-bhagaskara-0001)
   [![GitHub](https://img.shields.io/badge/GitHub-dowmar-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dowmar)
-  [![Email](https://img.shields.io/badge/Email-domararya9029%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:domararya9029@gmail.com)
-  [![Phone](https://img.shields.io/badge/WhatsApp-%2B6281219487204-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281219487204)
 
 </div>
 
