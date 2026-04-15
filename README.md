@@ -71,7 +71,7 @@ class AryasatyaBhagaskara:
 
 ## 💼 Professional Experience
 
-### 💼 **Software Engineer** | *May 2023 - April 2024*
+### 💼 **Software Engineer** | *May 2024 - November 2025*
 *Full-time | Bekasi, Indonesia*
 
 - 🔐 Designed **face recognition & liveness detection** systems for **Banking Sector**
@@ -84,7 +84,7 @@ class AryasatyaBhagaskara:
 
 ---
 
-### 💼 **Full Stack Developer** | *February 2023 - March 2023*
+### 💼 **Full Stack Developer** | *February 2023 - March 2024*
 
 - 📱 Developed WhatsApp API & Facebook Business broadcast system for **40+ subsidiaries**
 - 🛒 Re-developed **e-commerce app** with Privy API integration & vendor approval system
@@ -95,7 +95,7 @@ class AryasatyaBhagaskara:
 
 ---
 
-### 💼 **Freelance Web Developer** | *September 2021 - September 2022*
+### 💼 **Freelance Web Developer** | *September 2022 - September 2023*
 
 ---
 
