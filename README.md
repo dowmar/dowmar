@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=12,14,25,27,28&text=Aryasatya%20Bhagaskara&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20%26%20AI%20Enthusiast&descSize=18&descAlignY=60" />
+  ![dowmar's GitHub Banner](https://raw.githubusercontent.com/dowmar/dowmar/main/dowmar-readme-banner.png)
 
   <br>
 
